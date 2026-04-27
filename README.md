@@ -10,6 +10,8 @@
 ![PyGame](https://img.shields.io/badge/PyGame-Live_Visualizer-green)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Data_Analysis-blueviolet)
 
+![Live Simulation Dashboard](assets/demo_dashboard.png)
+
 This repository contains the code, data visualizations, and project report for a **Digital Twin** of the Radhanagari State Transport (ST) Depot in Maharashtra, India. 
 
 Traditional transit planning often measures success by comparing *total daily seats* against *total daily passengers*. This project proves mathematically that this "average" approach hides catastrophic system failures. By modeling irrational human behavior against strict physical bus timetables, this simulation reveals severe spatiotemporal mismatches, ghost buses, and dangerous platform bottlenecks.
